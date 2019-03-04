@@ -1,0 +1,16 @@
+PODS:
+  - CBCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - CBCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  CBCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CBCategoryKit: 8f181916d5ea807defdc0b892808c22d106e4478
+
+PODFILE CHECKSUM: c98978344278f5a3ab352c6b94799aeeb2c1ddf8
+
+COCOAPODS: 1.5.0
